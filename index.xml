@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rui Gong</title>
+    <link>https://rui-gong-0791.github.io/</link>
+    <description>Recent content on Rui Gong</description>
+    <image>
+      <title>Rui Gong</title>
+      <url>https://rui-gong-0791.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rui-gong-0791.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Feb 2024 11:42:24 -0500</lastBuildDate>
+    <atom:link href="https://rui-gong-0791.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Courses</title>
+      <link>https://rui-gong-0791.github.io/courses/</link>
+      <pubDate>Tue, 06 Feb 2024 16:01:24 -0500</pubDate>
+      <guid>https://rui-gong-0791.github.io/courses/</guid>
+      <description>Notes of some courses I took at Uwaterloo and GaTech.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://rui-gong-0791.github.io/research/</link>
+      <pubDate>Tue, 06 Feb 2024 16:01:24 -0500</pubDate>
+      <guid>https://rui-gong-0791.github.io/research/</guid>
+      <description>My peer-reviewed, preprints and thesis</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://rui-gong-0791.github.io/about/</link>
+      <pubDate>Tue, 06 Feb 2024 11:42:24 -0500</pubDate>
+      <guid>https://rui-gong-0791.github.io/about/</guid>
+      <description>I am a first-year Operation Research PhD student at ISyE, Georgia Institute of Technology. Currently I am working with Diego Cifuentes and Alejandro Toriello. My research interests mainly lie in semidefinite programming and its applications to continuous optimization and combinatorial optimization.
+I obtained my MMATH in Combinatorics and Optimization from the University of Waterloo, under the supervision of Levent Tuncel. My research included the decomposition of positive semidefinite matrices into the sum of a low-rank and a sparse matrix.</description>
+    </item>
+    <item>
+      <title>Test_Post</title>
+      <link>https://rui-gong-0791.github.io/posts/new/</link>
+      <pubDate>Tue, 06 Feb 2024 11:42:24 -0500</pubDate>
+      <guid>https://rui-gong-0791.github.io/posts/new/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
