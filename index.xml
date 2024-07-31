@@ -42,5 +42,12 @@ I have just switched from Jekyll and a theme called Xixia to Hugo recently. Hugo
       <guid>https://rui-gong-0791.github.io/research/</guid>
       <description>My peer-reviewed, preprints and thesis</description>
     </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://rui-gong-0791.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rui-gong-0791.github.io/teaching/</guid>
+      <description> University of Waterloo CO372 Portfolio Optimization: Holding oﬀice hours, marking assignments and exams. 2021.09-2022.04, 2022.09-2022.12 CO471/671 Semidefinite Programming: Marking assignments. 2022.05-2022.08 Georgia Institute of Technology </description>
+    </item>
   </channel>
 </rss>
