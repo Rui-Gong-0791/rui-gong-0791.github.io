@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rui Gong</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rui Gong</description>
+    <image>
+      <title>Rui Gong</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>来自：豫章故郡，洪都新府。</description>
+    </item>
+    <item>
+      <title>Courses</title>
+      <link>http://localhost:1313/courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/</guid>
+      <description>Notes of some courses I took at Uwaterloo and GaTech.</description>
+    </item>
+    <item>
+      <title>New Web</title>
+      <link>http://localhost:1313/posts/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo/</guid>
+      <description>Deploying a website with Hugo and Github.
+I have just switched from Jekyll and a theme called Xixia to Hugo recently. Hugo is just simple, clean and having a larger community. However I did spend some time on deploying my webpage on Github, which was supposed to be really easy. The instruction here gives a way to deploy your web but ONLY with the repository name. For example, it makes my GitHub page look like rui-gong-0791.</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>Preprints Rounding the Lovász Theta Function with a Value Function Approximation Publications Talks Value Function Approximation for Maximum Stable Set Problem, Combinatorial Optimisation and Graph Theory Session, International Symposium on Mathematical Programming (ISMP 2024), Montreal, Canada. July 26, 2024 Low-Rank Plus Sparse Decompositions of Large-Scale Matrices via Semidefinite Optimization, MMATH Thesis Talk, Department of Combinatorics &amp;amp; Optimization, Faculty of Mathematics, University of Waterloo. May 3, 2023 Convex Optimization, Factor Analysis and Realizability of a Subspace, Graduate Research Seminar, Department of Combinatorics &amp;amp; Optimization, Faculty of Mathematics, University of Waterloo.</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description> University of Waterloo CO372 Portfolio Optimization: Holding oﬀice hours, marking assignments and exams. 2021.09-2022.04, 2022.09-2022.12 CO471/671 Semidefinite Programming: Marking assignments. 2022.05-2022.08 Georgia Institute of Technology </description>
+    </item>
+  </channel>
+</rss>
