@@ -16,18 +16,18 @@
       <description>来自：豫章故郡，洪都新府。</description>
     </item>
     <item>
+      <title>Courses</title>
+      <link>https://rui-gong-0791.github.io/courses/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rui-gong-0791.github.io/courses/</guid>
+      <description>Notes of some courses I took at Uwaterloo and GaTech.</description>
+    </item>
+    <item>
       <title>Research</title>
       <link>https://rui-gong-0791.github.io/research/</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://rui-gong-0791.github.io/research/</guid>
-      <description>Preprints Rounding the Lovász Theta Function with a Value Function Approximation (under major revision) Dynamic Interval Scheduling with Random Start and End Times (under major revision) Deriving Quadratic Assignment Solutions from Semidefinite Relaxations (working on) Publications Talks Dynamic Interval Scheduling with Random Start and End Times, INFORMS Optimization Society Conference, Atlanta, U.S.A., March 20, 2026 Rounding the Lovász Theta Function with a Value Function Approximation, INFORMS Annual Meeting, Atlanta, U.S.A., October 26, 2025 Value Function Approximation for Maximum Stable Set Problem, Combinatorial Optimisation and Graph Theory Session, International Symposium on Mathematical Programming (ISMP 2024), Montreal, Canada, July 26, 2024 Low-Rank Plus Sparse Decompositions of Large-Scale Matrices via Semidefinite Optimization, M.</description>
-    </item>
-    <item>
-      <title>Courses</title>
-      <link>https://rui-gong-0791.github.io/courses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rui-gong-0791.github.io/courses/</guid>
-      <description>Notes of some courses I took at Uwaterloo and GaTech.</description>
+      <description>Preprints, working papers, presentations, and posters in semidefinite programming, combinatorial optimization, and stochastic optimization.</description>
     </item>
     <item>
       <title>New Web</title>
