@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://rui-gong-0791.github.io/sitemap.xml
